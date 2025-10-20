@@ -92,7 +92,7 @@ Toolkits
 | Indigo               | <http://lifescience.opensource.epam.com/indigo>                          |    GPL   |    A1    |          |
 | JoeLib               | <http://sourceforge.net/projects/joelib>                                 |    GPL   |    C1    |          |
 | LICSS                | <https://github.com/KevinLawson/excel-cdk>                               |    GPL   |    A2    |          |
-| Mol-Rep-Haskell-Bayes| <https://github.com/oliverjgoldstein/Mol-Rep-Haskell-Bayes>              |   AGPL3  |    A2    |          |
+| MolADT-Bayes         | <https://github.com/oliverjgoldstein/MolADT-Bayes/>                      |   Custom |    A1    |          |
 | MayaChemTools        | <http://www.mayachemtools.org>                                           |   LGPL   |    A2    |          |
 | Mychem               | <http://mychem.sourceforge.net>                                          |    GPL   |    B2    |          |
 | ODDT                 | <https://github.com/oddt/oddt>                                           |    BSD   |    A2    |          |
